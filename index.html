@@ -1,0 +1,44 @@
+
+<html>
+
+    <title>
+        DomPurify Research
+    </title>
+<body>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.0/purify.min.js"></script>
+<div class="container">
+ <div class="profile-desc">
+   <h1> DomPurfy Demo</h1>
+      <h1>Tell us about yourself</h1>
+      <p>Give some details about yourself so others can connect with you.</p>
+    </div>
+    <form class="profile-form">
+      <label><p>First Name</p>
+        <input required type="text" id="nameField"/>
+      </label>
+      <label><p>Bio</p>
+        <textarea required type="text" id="bioField"></textarea>
+      </label>
+      <button type="submit">Submit</button>
+    </form> 
+    
+<div class="profile inactive">
+    </div>
+
+<!-- /div>
+    <form class="search-form inactive">
+        <label><p> Enter a search term</p>
+        <input required  type ="query-input" name="query"/>
+        </label>
+    </label>
+    <div class "search-btns">
+        <button type = "submit">Submit</button>
+        <button type="reset">Clear</button>
+    </div>
+    <p class ="search-results inactive"></p> -->
+  </container>
+  <!-- <script src="secure.js"></script> -->
+<script src="vulnerable.js"></script>
+</body>
+</html>
