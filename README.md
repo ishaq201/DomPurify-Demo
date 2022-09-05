@@ -2,4 +2,4 @@
 
 
 
-Code Taken Coding in Public's YouTube video: Link [here](https://www.youtube.com/watch?v=YjFTidoXOOk)
+Code take from Coding in Public's YouTube video: Link [here](https://www.youtube.com/watch?v=YjFTidoXOOk)
